@@ -1,0 +1,13 @@
+{
+  "name": "schnedale",
+  "version": "1.0.0",
+  "description": "SDK for the schnedale broker",
+  "main": "schnedale.js",
+  "scripts": {
+  },
+  "keywords": [
+    "schnedale"
+  ],
+  "author": "Moritz Mitterdorfer",
+  "license": "MIT"
+}
